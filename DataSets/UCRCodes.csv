@@ -1,0 +1,235 @@
+﻿offense_general,CATEGORY,UCRCode,OFFENSE,offense_description
+HOMICIDE,Violent,1,JHOMIC,Justifiable Homicide
+HOMICIDE,Violent,1,MSLTR1,Mnsltr-heat/passion
+HOMICIDE,Violent,1,MURDR,Murder (general)
+HOMICIDE,Violent,1 ,MURDR1 ,Murder-premeditation
+HOMICIDE,Violent,1 ,MURDR2 ,Intent W/o Premedita
+HOMICIDE,Violent,1 ,MURDR3 ,Murder W/o Intent
+HOMICIDE,Violent,2 ,MNSLTR ,Negligent Manslaught
+HOMICIDE,Violent,2 ,MSLTR2 ,Neglig Manslaughter
+RAPE,Violent,3,CSCR,Crim Sex Cond-rape [1 - 2 - 3 - 4 - 5]
+ROBBERY,Violent,4,ROBBIZ,Robbery Of Business
+ROBBERY,Violent,4,ROBPAG,Robbery Per Agg
+ROBBERY,Violent,3 ,ROBPER,Robbery Of Person
+AGGRAVATED ASSAULT,Violent,5,ADLTTN,Adulteration/poison
+AGGRAVATED ASSAULT,Violent,5,ASLT1,Aslt-great Bodily Hm
+AGGRAVATED ASSAULT,Violent,5 ,ASLT2,Asslt W/dngrs Weapon
+AGGRAVATED ASSAULT,Violent,5,ASLT3,Aslt-sgnfcnt Bdly Hm
+AGGRAVATED ASSAULT,Violent,5 ,ASLT4,Aslt-police/emerg P
+AGGRAVATED ASSAULT,Violent,5,DASLT1,1st Deg Domes Asslt
+AGGRAVATED ASSAULT,Violent,5,DASLT2,2nd Deg Domes Aslt
+AGGRAVATED ASSAULT,Violent,4,DASLT3,3rd Deg Domes Aslt
+BURGLARY,Non-Violent,6,BURGB,Burglary Of Business
+BURGLARY,Non-Violent,6 ,BURGD,Burglary Of Dwelling
+BURGLARY,Violent,6,LOOT,Looting
+LARCENY/THEFT,Non-Violent,7,COINOP,Theft/coinop Device
+LARCENY/THEFT,Non-Violent,7,COMPUT,Theft By Computer
+LARCENY/THEFT,Non-Violent,7,METERS,Tamp W/park Meters
+LARCENY/THEFT,Non-Violent,7,NOPAY,Gas Station Driv-off
+LARCENY/THEFT,Non-Violent,7,PETIT,Petty Theft
+LARCENY/THEFT,Non-Violent,7,POCKET,Pocket-picking
+LARCENY/THEFT,Non-Violent,7,SHOPLF,Shoplifting
+LARCENY/THEFT,Non-Violent,7,TBLDG,Theft From Building
+LARCENY/THEFT,Non-Violent,7,TFMV,Theft From Motr Vehc
+LARCENY/THEFT,Non-Violent,7,TFPER,Theft From Person
+LARCENY/THEFT,Non-Violent,7 ,THEFT,Other Theft
+LARCENY/THEFT,Non-Violent,7,THFTSW,Theft By Swindle
+LARCENY/THEFT,Non-Violent,7,TMVP,Theft-motr Veh Parts
+MOTOR VEHICLE THEFT,Non-Violent,8 ,AUTOTH,Motor Vehicle Theft
+MOTOR VEHICLE THEFT,Non-Violent,8,MVTHFT,Other Vehicle Theft
+ARSON,Violent,10,ARSON,Arson
+OTHER ASSAULT,Violent,9 ,ASLT5,Atmpt-cause Bod Harm
+OTHER ASSAULT,Violent,9,BOMB,Bomb/incendiary Devc
+OTHER ASSAULT,Violent,9,BOMBT,Bomb Threat
+OTHER ASSAULT,Violent,9,DASLT5,5th Deg Domes Aslt
+OTHER ASSAULT,Violent,9,THREAT,Terroristic Threats
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,11,CLONE,Clone Phone
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,11,CLONE3,Clone Phone 3rd Degree
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,11,CTRFT,Counterfeiting
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,11,FNARP,Forged Prescription
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,11,FORG,Forgery
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,11,FORGCK,Forgery Of Check
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,12,BADCHK,Bad Checks
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,12,CCATM,Credt Card/atm Fraud
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,12,CONGAM,Con/swindle/fals Pre
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,12,FALNOT,False Notarization
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,12,INKEEP,Defrauding-innkeeper
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,12,SCALP,Ticket Scalping
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,12,TAXIFR,Failur-pay Taxi Fare
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,12,VAFIN,Financial Fraud of Vulnerable Adult
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,12,WIREFR,Wire Fraud
+FORGERY/FRAUD/EMBEZZLEMENT,Non-Violent,13,EMBEZL,Embezzlement
+POSSESSION OF STOLEN PROPERTY,Non-Violent,14,PSSFIR,Poss Stolen Firearm
+POSSESSION OF STOLEN PROPERTY,Non-Violent,14,R&C,Stolen Propty Offens
+POSSESSION OF STOLEN PROPERTY,Non-Violent,14,STOLMV,Poss Of Stolen Mv
+VANDALISM/PROPERTY DAMAGE,Violent,15,CMTERY,Damage-cemetery Prop
+VANDALISM/PROPERTY DAMAGE,Violent,15,CULT,Cult/satanic/butcher
+VANDALISM/PROPERTY DAMAGE,Violent,15,DAMMV,Damage To Motor Veh
+VANDALISM/PROPERTY DAMAGE,Violent,15,DAMPRP,Damage To Property
+VANDALISM/PROPERTY DAMAGE,Violent,15,KILDOG,Killing A Dog
+VANDALISM/PROPERTY DAMAGE,Violent,15,MVTAM,Tampering W/motr Veh
+VANDALISM/PROPERTY DAMAGE,Violent,15,PRKPRP,Destrctn/park Propty
+WEAPONS,Violent,16,DANGW,Dang Weap/silencers
+WEAPONS,Violent,16,DISPFA,Unlawfl Dspl-firearm
+WEAPONS,Violent,16,DISWEA,Discharge Weapon
+WEAPONS,Violent,16,GUNPUB,Poss-firearm In Publ
+WEAPONS,Violent,16,GUNVEH,Poss-firearm In Veh
+WEAPONS,Violent,16,HANDGN,Illegal Poss Handgun
+WEAPONS,Violent,16,HUNTNG,Hunt/dschrg Weap-prk
+WEAPONS,Violent,16,INCEND,Poss Incend Dev
+WEAPONS,Violent,16,KNFSCH,Knife In School
+WEAPONS,Violent,16,PAWEAP,Poss-aslt Weap W/o P
+WEAPONS,Violent,16,PFARM,Unlawfl Poss-firearm
+WEAPONS,Violent,16,SHOTGN,Mach/sawedoff Shotgn
+WEAPONS,Violent,16,SWEAP,Sell Weapon-unauthrz
+WEAPONS,Violent,16,TEARGS,Teargas/mace W/o Lbl
+WEAPONS,Violent,16 ,WEAP,Weapons Ordinance
+PROSTITUTION,Non-Violent,17,CSCSCH,Solit Child Under 15
+PROSTITUTION,Non-Violent,17 ,DISHSE,Disorderly House
+PROSTITUTION,Non-Violent,17,IPROST,Loiter/intent-prostu
+PROSTITUTION,Non-Violent,17,PIMP,Pandering
+PROSTITUTION,Non-Violent,17 ,PROSTU,Prostitution
+PROSTITUTION,Non-Violent,17,PRPROS,Promo Of Prostitut
+PROSTITUTION,Non-Violent,17,RCVPRF,Rec Profit Fr Prostu
+PROSTITUTION,Non-Violent,16,SOLITB,Solicit By Showgirls
+SEX OFFENSES OTHER THAN RAPE,Violent,18,CSCM,Crim Sex Cond-molest
+SEX OFFENSES OTHER THAN RAPE,Violent,18,CSCS,Crim Sex Cond-sodomy
+SEX OFFENSES OTHER THAN RAPE,Violent,18,INCEST,Incest (nonforcible)
+SEX OFFENSES OTHER THAN RAPE,Violent,18,INDEX,Indecent Exposure
+SEX OFFENSES OTHER THAN RAPE,Violent,18,PEEP,Peeping Tom
+SEX OFFENSES OTHER THAN RAPE,Violent,17,STRAPE,Statutory Rape
+NARCOTICS,Non-Violent,28,MJINMV,Marijuana In Mot Veh
+NARCOTICS,Non-Violent,28 ,NARC,Narcotics Violation
+NARCOTICS,Non-Violent,28,PRXDR,Poss-prescript Drugs
+NARCOTICS,Non-Violent,28,SIMNAR,Sell Simulated Narc
+GAMBLING,Non-Violent,33,AMUSEG,Use Of Amuse Dev-gam
+GAMBLING,Non-Violent,33,BETTNG,Unlawful Betting
+GAMBLING,Non-Violent,33,BINGO,Opr Bingo W/o Permit
+GAMBLING,Non-Violent,33,EGHSE,Enter Gambling House
+GAMBLING,Non-Violent,33,GAMBLE,Charitable Gamb Viol
+GAMBLING,Non-Violent,33,GAMHSE,Opr Gambling House
+GAMBLING,Non-Violent,33,ILGAMB,General Gambling Vio
+GAMBLING,Non-Violent,33,ILLGAM,Illegl Sports Bookmk
+GAMBLING,Non-Violent,33,LOTFRD,State Lottery Fraud
+GAMBLING,Non-Violent,33,PGAMEQ,Poss-gambling Equip
+FAMILY OFFENSES,Violent,34,ACHILD,Abandoned Child
+FAMILY OFFENSES,Violent,34,BIGAMY,Bigamy
+FAMILY OFFENSES,Violent,34,DEPCPR,Depr Cust/parent Rgt
+FAMILY OFFENSES,Violent,34,MALPUN,Malic Punish Of Chld
+FAMILY OFFENSES,Violent,34,NEGLCT,Child Neglect
+FAMILY OFFENSES,Violent,34,VABUSE,Abuse of Vulnerable Adult
+FAMILY OFFENSES,Violent,34,VANEG,Neglect of Vulnerable Adult
+DRIVING WHILE INTOXICATED,Non-Violent,35,AGGDWI,DWI nwhile driving on a revoked
+DRIVING WHILE INTOXICATED,Violent,35,AGGREF,Refuse Test Gross
+DRIVING WHILE INTOXICATED,Non-Violent,35,DWI,Driving While Intoxc
+DRIVING WHILE INTOXICATED,Non-Violent,35,DWICHD,DWI with child in the car
+DRIVING WHILE INTOXICATED,Non-Violent,35,DWIDRE,DWI with drug involved
+DRIVING WHILE INTOXICATED,Non-Violent,35,DWIREF,Refuse to five a test on a misdemeanor DWI
+DRIVING WHILE INTOXICATED,Non-Violent,34,GRSRPT,2nd DWI in 5 years
+LIQUOR LAWS,Non-Violent,36,BARHRS,Bar Hours Violation
+LIQUOR LAWS,Non-Violent,36,BEERMV,Move Beer Frm/to Bar
+LIQUOR LAWS,Non-Violent,36,BRHRS,Opr Bar Past Allw Hr
+LIQUOR LAWS,Non-Violent,36,CBYMIN,Consump-liq By Minor
+LIQUOR LAWS,Non-Violent,36 ,CONSME,Consuming In Public
+LIQUOR LAWS,Non-Violent,36,LICVIO,License Violation
+LIQUOR LAWS,Non-Violent,36,LIQAUD,Sell Liq-aud W/o Per
+LIQUOR LAWS,Non-Violent,36,LIQHRS,Sell Liq Past Allw H
+LIQUOR LAWS,Non-Violent,36,LIQLIC,Liq Lic Violations
+LIQUOR LAWS,Non-Violent,36,LIQMIN,Poss/liquor By Minor
+LIQUOR LAWS,Non-Violent,36,LIQMOV,Move Liq From/to Bar
+LIQUOR LAWS,Non-Violent,36,LIQPRK,Liq/intox Bev In Prk
+LIQUOR LAWS,Non-Violent,36,MISAGE,Misrepresnt Age-liq
+LIQUOR LAWS,Non-Violent,36,NOLIC,Sell Liq W/o License
+LIQUOR LAWS,Non-Violent,36,SELLDK,Sell To Drunk/incomp
+LIQUOR LAWS,Non-Violent,36,SMINOR,Sale Liq To Minors
+LIQUOR LAWS,Non-Violent,35,SPIKNG,Spiking Beer/drink
+DISORDERLY,Non-Violent,38,ASMBLY,Unlawful Assembly
+DISORDERLY,Non-Violent,38,BKPRTY,Block Party W/o Perm
+DISORDERLY,Non-Violent,38,CRANK,False Emergency Call
+DISORDERLY,Non-Violent,38,DANCE,Dancing In Street
+DISORDERLY,Non-Violent,38 ,DISCON,Disorderly Conduct
+DISORDERLY,Non-Violent,38,DOGDTP,Dog Disturbing Peace
+DISORDERLY,Non-Violent,38,DSTALK,Stalking
+DISORDERLY,Non-Violent,38,DTPPRK,Dist Peace In Park
+DISORDERLY,Non-Violent,38,FLMOVE,Fail To Move-pol Ord
+DISORDERLY,Non-Violent,38,GATECR,Gate Crashing
+DISORDERLY,Non-Violent,38,HARASS,Harassing Phone Call
+DISORDERLY,Non-Violent,38,HORN,Horn Honkg 2200-700
+DISORDERLY,Non-Violent,38,LOUD,Annoying Amplifiers
+DISORDERLY,Non-Violent,38,MTC,Crimes Against Mtc
+DISORDERLY,Non-Violent,38,NSODOR,Unnecsry Noise/odor
+DISORDERLY,Non-Violent,38,OBSCPH,Obscene Phone Calls
+DISORDERLY,Non-Violent,38,PAADV,Advrtisng W/pub Adrs
+DISORDERLY,Non-Violent,38,PARADE,Parading W/o Permit
+DISORDERLY,Non-Violent,38,PARTY,Disruptive Party
+DISORDERLY,Non-Violent,38,PRIVCY,Interfere W/privacy
+DISORDERLY,Non-Violent,38,PROFAN,Use/profanity-public
+DISORDERLY,Non-Violent,38,QTZONE,Noise In Quiet Zone
+DISORDERLY,Violent,38,RIOT,Riot
+DISORDERLY,Non-Violent,38,SMNOIS,Snomo Nois 2300-700
+DISORDERLY,Non-Violent,38,STALK,Stalking
+DISORDERLY,Non-Violent,38,STCARN,Street Carnval W/o/p
+DISORDERLY,Violent,38,THEATR,Disrupt Behav-theatr
+DISORDERLY,Non-Violent,38,XSOUND,Excess Sound-mot Veh
+VAGRANCY,Non-Violent,39,BEGGAR,Begging/panhandling
+VAGRANCY,Non-Violent,39,VAGRNT,Vagrancy
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Violent,40,ANFGHT,Animal Fight
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Other,40,AOFFND,Aid Offender
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,BLMAIL,Extortion/blackmail
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,BOOSTR,Possess Shplft Gear
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,BRIBPO,Bribing Public Ofcil
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,BURGTL,Poss Of Burg Tools
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,CBRIBE,Commercial Bribery
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,CIGMIN,Sale Of Cig To Minor
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Violent,40,CRULTY,Cruelty To Animals
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Violent,40,CRVEHD,Crim. Veh. Homicide
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Violent,40,CRVEHI,Crim. Veh. Injury
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,CSCREG,Register Sex Offender
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,DISCRM,Discrimination-civ R
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,DRGOC,Prescr Drug-orig Con
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,ESCAPE,Esc Cust/jail/sqd
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,FALSNM,False Name Or Info
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Violent,40,FIMPRS,False Imprisonment
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40 ,FINFO,False Info To Law En
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,FIREWK,Firing Fireworks
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40 ,FLEE,Flee Police In Mv
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,FLSDL,Possess False/alt Dl
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,FOBEY,Fail Obey Ord Police
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40 ,FRPT,False Report
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,GAMES,Games In The Street
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,GLUE,Glue Etc. Sniffing
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,HRMMIN,Dist Mat Harmf Minor
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,IMPPO,Impersonate Police O
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,INDCON,Indecent Conduct
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Violent,40,KIDNAP,Kidnapping
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Violent,40 ,LOITER,Loitering W/int Narc
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40 ,LURKNG,Lurking W/int Com Cr
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,OBNARC,"Ob Leg Process, Narc"
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40 ,OBSTRU,Obst Legal Process
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,PAROLE,Parole Violation
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,PEDDLE,Peddling W/o License
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,PERJRY,Perjury
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,PINJEQ,Poss-injection Equip
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,POBSTR,Person Obstrct Sidew
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,POLMON,Poss-polc Monitr-veh
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,PORNO,Pornogrphy/obscene M
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40 ,POSDPA,Drug Paraphernalia
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,POVIOL,Viol Of Protect Ordr
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,RACKT,Racketeering
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Violent,40,RESIST,Resist Arrest
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,RORDER,Viol Restraining Ord
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,SFIREW,Selling Fireworks
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,SPTAMP,Sports Tampering
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,TAMPWI,Tamper With Witness
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40 ,TRSPAS,Trespassing
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,TRSSCH,Trepass-school Propt
+ALL OTHER OFFENSES (COUNTABLE BY THE UCR),Non-Violent,40,VIVIOL,Viol Visitation Ordr
+CURFEW AND LOITERING,Non-Violent,42,BJLOIT,Bsn Allow Juv Loiter
+CURFEW AND LOITERING,Non-Violent,42,CURFEW,Curfew Violation
+CURFEW AND LOITERING,Non-Violent,42,JVLOIT,Juvenile Loitering
+JUVENILE RUNAWAY,Non-Violent,43,RUNWAY,Runaway
+OTHER (MANUALLY ADDED),Non-Violent,0,BIKETF,Bike Theft
+OTHER (MANUALLY ADDED),Violent,0,DASTR,Domestic Assault/Strangulation
+OTHER (MANUALLY ADDED),Non-Violent,0,SCRAP,Scrapping-Recycling Theft
+OTHER (MANUALLY ADDED),Non-Violent,0,ONLTHT,On-line Theft
+OTHER (MANUALLY ADDED),Violent,0,DISARM,Disarm a Police Officer
