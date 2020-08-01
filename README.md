@@ -2,7 +2,7 @@
 Comparing MPLS Median Home Value to Crime Rate
 Housing Value and Crime in Minneapolis: A Neighborhood Analysis
 
-by: Michael Neustadter, Joe Metzen, Matt Mead, Emilio Bello
+by: Michael Neustadter, Matt Mead, Emilio Bello
 
 This project aims to assess the possible crime effect on housing value for the neighborhoods in the city of Minneapolis, MN, in the US. The study is focused on Residential areas, and the crime rates for different categories, including violent and non-violent crimes. If time allows it, household income would be included as a factor to determine wealthy and poorer.
 
