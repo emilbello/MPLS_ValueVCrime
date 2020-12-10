@@ -1,33 +1,33 @@
 # MPLS_ValueVCrime
-Comparing MPLS Median Home Value to Crime Rate
-Housing Value and Crime in Minneapolis: A Neighborhood Analysis
 
-by: Michael Neustadter, Matt Mead, Emilio Bello
+**Project**
 
-This project aims to assess the possible crime effect on housing value for the neighborhoods in the city of Minneapolis, MN, in the US. The study is focused on Residential areas, and the crime rates for different categories, including violent and non-violent crimes. If time allows it, household income would be included as a factor to determine wealthy and poorer.
+Comparing the Median Home Value to Crime Rates in Minneapolis, MN
 
-Research Questions to Answer:
-Is crime rate a function of the median housing value?
-Is there less crime in affluent neighborhoods?
-Is there more crime in poor neighborhoods?
-Does housing value have impact on the type of crime (violent vs non-violent crime)?
-Is household income related to housing value?
-Is household income a factor in crime rate by neighborhood?
-Is there a correlation between crime and household income?
+_This project aims to assess the possible crime effect on housing value for the neighborhoods in the city of Minneapolis, MN. The study focused on Residential areas, and the crime rates for different categories, including violent and non-violent crimes._ 
 
-Data Sets
+**Team**
+
+[_Matt Mead_](https://www.linkedin.com/in/mattmeadmpls/)
+
+[_Emilio Bello_](https://www.linkedin.com/in/emilio-bello-09938760/)
+
+_Michael Neustadter_
+
+# Data Sets
+
 Police Data - Both API and CSV
 http://opendata.minneapolismn.gov/datasets/police-incidents-2019
 
 Home Pricing Both API and CSV http://opendata.minneapolismn.gov/datasets/assessors-parcel-data-2020
 
-Household Income: TBD
-Population Census: MPLS.gov website 
+# Analysis
 
-Tasks
-Understanding the datasets
-Clean and append the datasets (Police and Housing Value, separately) 
-Aggregations and merging for quick insights
-Answer the research questions
-Prepare the presentation
+Looking at the data we noticed that there was no strong correlation between crime (violent or non-violent) and property value. To see our findings, please open the Analysis.ipynb notebook or the MPLS_PropVvsCrime.pptx Power Point Presentation.
+
+![Crime vs. Neighborhood]()
+
+![Regression]()
+
+
 
