@@ -14,6 +14,16 @@ _This project aims to assess the possible crime effect on housing value for the 
 
 _Michael Neustadter_
 
+**Tools**
+
+_Python_
+
+_Pandas_
+
+_MatPlotLib_
+
+_ETL_
+
 # Data Sets
 
 Police Data - Both API and CSV
