@@ -35,9 +35,9 @@ Home Pricing Both API and CSV http://opendata.minneapolismn.gov/datasets/assesso
 
 Looking at the data we noticed that there was no strong correlation between crime (violent or non-violent) and property value. To see our findings, please open the Analysis.ipynb notebook or the MPLS_PropVvsCrime.pptx Power Point Presentation.
 
-![Crime vs. Neighborhood](https://github.com/mmeadx/MPLS_ValueVCrime/blob/master/propertyvalueVSneighborhood.png?raw=true)
+![Crime vs. Neighborhood](https://github.com/emilbello/MPLS_ValueVCrime/blob/master/propertyvalueVSneighborhood.png?raw=true)
 
-![Regression](https://github.com/mmeadx/MPLS_ValueVCrime/blob/master/regression.png?raw=true)
+![Regression](https://github.com/emiliobello/MPLS_ValueVCrime/blob/master/regression.png?raw=true)
 
 
 
